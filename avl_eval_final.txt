@@ -1,0 +1,13 @@
+Inorder Traversal: 5 6 7 9 
+Preorder Traversal: 7 6 5 9 
+Postorder Traversal: 5 6 9 7 
+5 found and deleted from the AVL tree!
+
+Height of the AVL tree: 3
+Depth of the root node: 1
+Balancing Factor of the root node: 1
+Old Root: 7
+Number after RR rotation: 9
+Number after RL rotation: 6
+Number after LL rotation: 6
+Number after LR rotation: 9
